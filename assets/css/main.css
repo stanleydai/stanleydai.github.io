@@ -27,7 +27,7 @@ body {
 }
 
 .intro {
-  display: block;
+  display: block
   clear
 }
 
@@ -117,7 +117,7 @@ p.italic {
 
 #portfolio {
     max-width: none;
-    margin-top: 50px;
+    margin-top: 25px;
 
 }
 
